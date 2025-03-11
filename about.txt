@@ -5,3 +5,6 @@ TO DO:
 4) Nothing.
 5) all is well.
 6) all is not well.
+7) hello
+8) word.
+9) sentence.
